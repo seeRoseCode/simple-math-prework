@@ -29,7 +29,7 @@ end
 square_root(81)
 
 def order_of_operation(num1, num2, num3, num4)
-  puts num1 + num2 ( num3 ) / num4
+  puts (num1 + num2 ( num3 )) / num4
 end
 
 order_of_operation(3, 4, 5, 2)
